@@ -1,6 +1,6 @@
 # Contentful Gatsby Portfolio
 
-![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
+![The index page of the starter blog](https://raw.githubusercontent.com/dineshnadimpalli/eHack2020_profile_page/master/screenshot.png "The index page of the starter blog")
 
 Static sites are scalable, secure and have very little required maintenance. They come with a drawback though. Not everybody feels good editing files, building a project and uploading it somewhere. This is where Contentful comes into play.
 
