@@ -1,0 +1,19 @@
+{
+  "name": "Contentful Gatsby Starter",
+  "description": "Gatsby starter for a Contentful project.",
+  "keywords": [
+    "contentful",
+    "gatsby",
+    "static",
+    "ssg"
+  ],
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ]
+}

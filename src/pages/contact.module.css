@@ -1,0 +1,16 @@
+.contact {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 61.8vh;
+    max-height: 400px;
+    background: #fff;
+    /* font-size: 2em; */
+    overflow: hidden;
+}
+
+.contactTitle {
+    font-size: 2em;
+    padding: 20px;
+}

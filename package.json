@@ -1,0 +1,41 @@
+{
+  "name": "contentful-starter-gatsby-profile",
+  "description": "Contentful Gatsby Profile",
+  "private": true,
+  "version": "0.0.1",
+  "author": "dineshnadimpalli",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "gatsby": "^2.19.1",
+    "gatsby-image": "^2.0.13",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-source-contentful": "^2.1.78",
+    "gatsby-transformer-remark": "^2.1.6",
+    "gh-pages": "^2.0.1",
+    "lodash": "^4.17.11",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-fontawesome": "^1.7.1",
+    "react-helmet": "^5.2.0"
+  },
+  "keywords": [
+    "gatsby",
+    "contentful",
+    "starter"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "heroku-postbuild": "gatsby build",
+    "serve": "gatsby serve",
+    "setup": "npm install --no-save contentful-import yargs-parser axios chalk && node ./setup.js"
+  }
+}
