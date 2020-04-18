@@ -1,6 +1,4 @@
-# Contentful Gatsby Starter Blog
-
-Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.
+# Contentful Gatsby Portfolio
 
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
 
@@ -16,7 +14,7 @@ With Contentful and Gatsby you can connect your favorite static site generator w
 
 ## Getting started
 
-See our [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
+See [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
 
 ## Crucial Commands
 
@@ -35,9 +33,3 @@ Spin up a production-ready server with your blog. Don't forget to build your pag
 ## Deployment
 
 See the [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
-
-## Contribution
-
-Feel free to open pull requests to fix bugs. If you want to add features, please have a look at the [original version](https://github.com/contentful-userland/gatsby-contentful-starter). It is always open to contributions and pull requests.
-
-You can learn more about how Contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
